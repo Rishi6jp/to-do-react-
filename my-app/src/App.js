@@ -28,7 +28,7 @@ export default function ToDo() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-bl from-teal-400 to-indigo-600 p-5">
+    <div className="main">
       <div className="flex justify-between p-4 bg-indigo-300 rounded-2xl w-4/5 mx-auto">
         <div>
           <h1 className="text-2xl font-serif font-bold">Todo</h1>
